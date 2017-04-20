@@ -65,3 +65,15 @@ img{
   padding-left: 25%;
   overflow: scroll;
 }
+.contact{
+  text-align: center;
+  margin-bottom: 20px;
+  padding-left: 25%;
+  overflow: scroll;
+  font-family: "talldark", sans-serif;
+}
+.contact img{
+  margin-top: 15%;
+  margin-bottom: 20px;
+  padding-left:0%;
+}
