@@ -7,6 +7,10 @@ Author:  Michael Coston
   src: url('/Users/michaelcoston/Documents/talldark.ttf') format('truetype');
 }
 
+#content{
+ width: 1124px;
+ margin: 0px auto;
+}  
 body{
   margin:0;
   padding: 0;
@@ -79,9 +83,14 @@ img{
   margin-bottom: 20px;
   padding-left:0%; 
 }
-@media only screen and (max-width:650px) {
+@media screen and (max-width:1123px) {
 #content { 
-  padding:0.5em;
-  max-width: 500px;
+  width: 100%;
+  }
+}
+
+@media screen and (max-width:640px) {
+#content { 
+  width: 100%;
   }
 }
