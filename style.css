@@ -59,12 +59,24 @@ a:hover {
     text-decoration: none
 }
 
+@media screen and (mid-width:1000px){
 img{
+  width: 800px
   border: none;
   margin-bottom: 20px;
   padding-left: 25%;
-  overflow: scroll;
+  overflow: scroll; 
 }
+} 
+@media screen and (mid-width:0px){
+img{
+  width: 500px
+  border: none;
+  margin-bottom: 20px;
+  padding-left: 25%;
+  overflow: scroll; 
+}
+}  
 .contact{
   text-align: center;
   margin-bottom: 20px;
