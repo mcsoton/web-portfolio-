@@ -97,9 +97,12 @@ img{
 
 @media screen and (max-width:640px) {
   .nav{
-   width: 30%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
   }
   .gallery img{
-   width:70%;
+   width:100%;
   }
 }
