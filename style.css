@@ -93,9 +93,6 @@ img{
  .gallery{
   width: 70%;
   }
-.gallery img{
-  width:100%;
-  }
 }
 
 @media screen and (max-width:640px) {
