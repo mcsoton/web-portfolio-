@@ -96,7 +96,10 @@ img{
 }
 
 @media screen and (max-width:640px) {
-.nav{
+  #content{
+    width: 100;
+  }
+  .nav{
   width: auto;
   }
  .gallery{
@@ -104,6 +107,6 @@ img{
   float: none;
   }
  .gallery img{
-   width:100%;
+   width:90%;
   }
 }
