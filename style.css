@@ -103,4 +103,7 @@ img{
   width: auto;
   float: none;
   }
+ .gallery img{
+   width:auto;
+  }
 }
