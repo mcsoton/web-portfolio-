@@ -87,22 +87,22 @@ img{
 #content { 
   width: 100%;
   }
-  #content .nav{
+.nav{
   width: 30%;
   }
-  #content .gallery{
+ .gallery{
   width: 70%;
   }
-  #content .gallery img{
+.gallery img{
   width:100%;
   }
 }
 
 @media screen and (max-width:640px) {
-#content .nav{
+.nav{
   width: 100%;
   }
-  #content .gallery{
+ .gallery{
   width: 100%;
   }
 }
