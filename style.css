@@ -105,7 +105,7 @@ img{
     font-size:12px;
   }
   .gallery img{
-   max-width:80%;
-   max-height:80%;
+   width:100%;
+   height:auto;
   }
 }
