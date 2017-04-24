@@ -96,13 +96,13 @@ img{
 }
 
 @media screen and (max-width:640px) {
-  .nav{
+  .nav ul{
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
   }
-  .gallery img{
+  .gallery{
    width:100%;
   }
 }
