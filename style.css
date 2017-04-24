@@ -104,6 +104,6 @@ img{
   float: none;
   }
  .gallery img{
-   width:auto;
+   width:100%;
   }
 }
