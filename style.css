@@ -109,4 +109,9 @@ img{
    width:100%;
    height:auto;
   }
-}
+  .nav ul img{
+  position: absolute;
+  right:0;
+  }
+ }
+  
