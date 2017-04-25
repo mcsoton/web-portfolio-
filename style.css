@@ -120,9 +120,8 @@ img{
   }
   .nav ul img{
   position: relative;
-  float:right;
-  bottom:0;
-  padding:2px;
+  float:left;
+  bottom:75%;
   }
   .contact img{
    padding-top: 35%;
