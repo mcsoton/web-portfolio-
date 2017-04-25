@@ -120,7 +120,7 @@ img{
   }
   .nav ul img{
   position: relative;
-  float:left;
+  float:right;
   bottom:0;
   padding:2px;
   }
