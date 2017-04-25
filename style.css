@@ -96,7 +96,7 @@ img{
 }
 
 @media screen and (max-width:640px) {
-  .nav ul{
+  .nav{
     display: block;
     float: left;
     position: fixed; 
