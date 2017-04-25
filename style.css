@@ -73,7 +73,6 @@ img{
 
 .contact{
   text-align: center;
-  margin-top:20%;
   margin-bottom: 20px;
   padding-left: 25%;
   padding-right:10%;
@@ -81,6 +80,7 @@ img{
   font-family: "talldark", sans-serif;
 }
 .contact img{
+  margin-top:20%;
   margin-bottom: 20px;
   padding-left:0%; 
 }
