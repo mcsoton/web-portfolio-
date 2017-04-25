@@ -96,7 +96,7 @@ img{
 }
 
 @media screen and (max-width:640px) {
-  .nav{
+  .nav ul{
     display: block;
     float: left;
     position: fixed; 
@@ -113,6 +113,7 @@ img{
   .nav ul img{
   position: absolute;
   right:0;
+  bottom:0;
   }
  }
   
