@@ -148,7 +148,7 @@ img{
    margin:auto;
    padding: 0;
    width: auto;
-   max-height: 700px;
+   height: auto;
  }
  .close{
    color: white;
