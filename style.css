@@ -119,9 +119,8 @@ img{
    height:auto;
   }
   .nav ul img{
-  position: relative;
+  position: absolute;
   float:left;
-  bottom:75%;
   }
   .contact img{
    padding-top: 35%;
