@@ -122,6 +122,7 @@ img{
   position: relative;
   float:left;
   bottom:0;
+  padding:2px;
   }
   .contact img{
    padding-top: 35%;
