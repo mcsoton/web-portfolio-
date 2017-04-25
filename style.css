@@ -97,7 +97,8 @@ img{
 
 @media screen and (max-width:640px) {
   .nav ul{
-    position: static;
+    position: fixed;
+    float: top;
     top: 0;
     left: 0;
     height: 20%;
