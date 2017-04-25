@@ -146,8 +146,8 @@ img{
    background-color: #fefefe;
    margin:auto;
    padding: 0;
-   width: 90%;
-   max-width: 1000px;
+   width: auto;
+   max-height: 700px;
  }
  .close{
    color: white;
