@@ -97,10 +97,13 @@ img{
 
 @media screen and (max-width:640px) {
   .nav ul{
-    overflow: hidden;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
+   overflow: hidden;
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    padding: 14px 16px;
   }
   .gallery img{
    width:100%;
