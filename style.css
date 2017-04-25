@@ -119,7 +119,7 @@ img{
    height:auto;
   }
   .nav ul img{
-  position: static;
+  position: relative;
   float:left;
   bottom:0;
   }
