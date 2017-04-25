@@ -96,28 +96,30 @@ img{
 }
 
 @media screen and (max-width:640px) {
-  .nav ul{
-    display: block;
+.nav ul h1{
+  display: inline;
+  position: absolute;
+  text-align: center;
+  float: left;
+}
+.nav ul{
+    display: inline-grid;
     float: left;
-    position: fixed; 
-    top: 0; 
+    position:absolute;
+    top: 0;
     width: 100%;
-    height: 20%;
+    height: 25%;
     text-align: center;
+    padding: 0px,0px;
+
   }
-  .gallery img{
+  .contact img{
    width:100%;
    height:auto;
   }
   .nav ul img{
-  position: fixed;
-  float:right;
+  position: static;
+  float:left;
   bottom:0;
   }
  }
-  .gallery img{
-   width:100%;
-   height:auto;
-  } 
-}
-  
