@@ -73,6 +73,7 @@ img{
 
 .contact{
   text-align: center;
+  margin-top:20%;
   margin-bottom: 20px;
   padding-left: 25%;
   padding-right:10%;
@@ -123,7 +124,7 @@ img{
   bottom:0;
   }
   .contact img{
-   margin-top: 30%
+   margin-top: 30%;
    width:100%;
-  height: auto;}
+   height: auto;}
  }
