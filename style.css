@@ -144,16 +144,13 @@ img{
    background-color: black;
  }
  .modal-content{
+   position: relative;
    background-color: black;
    margin:auto;
-   position: fixed;
-   top: 50%;
-   left: 50%;
-   margin-top: -50px;
-   margin-left: -100px;
+   padding: 0;
    width: 80%;
-   height: 80%; 
-   max-width: 1200px;
+   height: 80%;
+   max-width: 1200px;;
    
  }
  .close{
