@@ -55,7 +55,7 @@ li a{
 ul img{
   position: absolute;
   bottom:0;
-  padding-left: 10px;
+  left: 10px;
   max-height:40px;
   max-width:40px;
 }
@@ -88,6 +88,18 @@ img:hover{
   margin-top:20%;
   margin-bottom: 20px;
   padding-left:0%; 
+}
+
+@media screen and (max-width:1123px) {
+#content {
+  width: 100%;
+  }
+.nav{
+  width: 30%;
+  }
+ .gallery{
+  width: 70%;
+  }
 }
 
 @media screen and (max-width:640px) {
