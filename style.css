@@ -144,8 +144,10 @@ img{
    position: absolute;
    background-color: black;
    margin:auto;
-   left: 50%;
+   top: 50%;
    left:50%;
+   margin-top:-50%;
+   margin-left:-50%;
    width: 60%;
    height: 60%;
  }
