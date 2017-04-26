@@ -148,7 +148,7 @@ img{
    background-color: black;
    margin:auto;
    padding-right: 15%;
-   padding-bottom: 15%;
+   margin-bottom: 25px;
    width: 60%;
    height: 60%;
    max-height:700px;
