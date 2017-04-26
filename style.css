@@ -85,10 +85,9 @@ img:hover{
   font-family: "talldark", sans-serif;
 }
 .contact img{
-  margin-top:20%;
-  margin-bottom: 20px;
-  padding-left:10px;
-  padding-right:100px;
+ margin-bottom: 20px;
+  padding-left:0%;
+  position:relative;
 }
 
 @media screen and (max-width:1123px) {
