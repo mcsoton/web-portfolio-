@@ -90,6 +90,9 @@ img:hover{
   margin-right:40%;
   position:relative;
 }
+.contact img:hover{
+  cursor:default;
+}
 
 @media screen and (max-width:1123px) {
 #content {
