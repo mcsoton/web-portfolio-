@@ -145,11 +145,11 @@ img{
    background-color: black;
    margin:auto;
    top: 50%;
-   left:50%;
-   margin-top: -50%;
-   margin-left: -50%;
-   width: 60%;
-   height: 60%;
+   left: 50%;
+   /* bring your own prefixes */
+   transform: translate(-50%, -50%);
+   width: 45%;
+   height: 45%;
  }
  .close{
    color: white;
@@ -177,7 +177,7 @@ img{
   position: absolute;
   top: 50%;
   width:auto;
-  padding: 20px;
+  padding: 16px;
   margin-top: -50px;
   color: white;
   font-weight: bold;
