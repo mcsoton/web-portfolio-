@@ -87,7 +87,7 @@ img:hover{
 .contact img{
   margin-top: 100px;
   margin-bottom: 20px;
-  margin-right:35%;
+  padding-right:35%;
   position:relative;
 }
 
