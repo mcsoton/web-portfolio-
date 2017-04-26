@@ -87,8 +87,8 @@ img:hover{
 .contact img{
   margin-top:20%;
   margin-bottom: 20px;
-  padding-left:0;
-  padding-right:150px;
+  padding-left:10px;
+  padding-right:100px;
 }
 
 @media screen and (max-width:1123px) {
