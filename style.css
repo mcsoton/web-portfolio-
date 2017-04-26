@@ -146,7 +146,7 @@ img{
  .modal-content{
    position: relative;
    background-color: black;
-   margin-top:auto;
+   margin:auto;
    padding-right: 15%;
    margin-bottom: 20%;
    width: 60%;
