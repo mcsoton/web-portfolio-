@@ -53,7 +53,7 @@ li a{
 
 }
 ul img{
-  position: absolute;
+  position: fixed;
   bottom:0;
   padding-left: 15px;
 }
@@ -67,7 +67,7 @@ a:hover {
 img{
   border: none;
   margin-bottom: 20px;
-  padding-left: 30%;
+  margin-left: 30%;
   overflow: scroll; 
 } 
 img:hover{
