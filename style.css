@@ -87,17 +87,6 @@ img:hover{
   margin-bottom: 20px;
   padding-left:0%; 
 }
-@media screen and (max-width:1123px) {
-#content { 
-  width: 100%;
-  }
-.nav{
-  width: 30%;
-  }
- .gallery{
-  width: 70%;
-  }
-}
 
 @media screen and (max-width:640px) {
 .nav ul h1{
