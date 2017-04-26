@@ -135,7 +135,7 @@ img{
    display: none;
    position: fixed;
    z-index: 1;
-   padding-top: 30px;
+   padding-top: 40px;
    left: 0;
    top: 0;
    width: 100%;
@@ -147,9 +147,9 @@ img{
    position: relative;
    background-color: black;
    margin:auto;
-   padding-right: 15%;
-   width: 60%;
-   height: 60%;
+   padding-right: 10%;
+   width: 70%;
+   height: 70%;
    max-height:700px;
    max-width: 700px;
    
