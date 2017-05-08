@@ -4,7 +4,7 @@ Author:  Michael Coston
 */
 @@font-face {
   font-family: "talldark";
-  src: url('https://mcsoton.github.io/web-portfolio-/TT-Moons-Thin-Italic-DEMO.otf') format('truetype');
+  src: url('https://mcsoton.github.io/web-portfolio-/talldark.ttf') format('truetype');
 }
 
 /*#content{
@@ -20,7 +20,7 @@ header{
   padding: 16px 0;
 }
 h1{
-  font-family: "talldark", sans-serif;
+  font-family: "talldark";
   font-size: 30px;
   padding-bottom: 100px;
   text-align: center;
