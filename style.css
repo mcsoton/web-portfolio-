@@ -4,7 +4,7 @@ Author:  Michael Coston
 */
 @@font-face {
   font-family: "talldark";
-  src: url('talldark.ttf') format('truetype');
+  src: url('https://mcsoton.github.io/web-portfolio-/talldark.ttf') format('truetype');
 }
 
 /*#content{
