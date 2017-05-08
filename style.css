@@ -36,7 +36,7 @@ ul{
   height: 100%;
   position: fixed;
   overflow: auto;
-  font-family: "talldark", sans-serif;
+  font-family: sans-serif;
   font-size: 15px;
 }
 a{
